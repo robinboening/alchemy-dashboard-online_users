@@ -1,0 +1,7 @@
+# encoding: UTF-8
+de:
+  alchemy:
+    dashboard:
+      widgets:
+        online_users:
+          label: Wer ist noch online

@@ -1,0 +1,7 @@
+# encoding: UTF-8
+nl:
+  alchemy:
+    dashboard:
+      widgets:
+        online_users:
+          label: Who else is online
